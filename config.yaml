@@ -1,0 +1,57 @@
+company:
+    card.name: "DEVSYL SARL unipersonnelle"
+    card.capital: 10
+    card.NAFCode: "XXXXX"
+    card.SIREN: "XXX XXX XXX"
+    card.RCS: "R.C.S. XXX"
+    card.TVAKey: 11
+    address.way: "777, rue Bar"
+    address.zipcode: "01234"
+    address.town: "Quux"
+    contact.phone: "+33(0)1 23 45 67 89"
+    contact.web: "www.foobar.com"
+    contact.mail: "contact@foobar.com"
+    bank.code: "XXXXX"
+    bank.counter: "XXXXX"
+    bank.accountId: "XXXXXXXXXXX"
+    bank.accountRIBKey: "XX"
+    bank.accountIBANNumber: "FRXX XXXX XXXX XXXX XXXX XXXX XXXX"
+    bank.accountBICCode: "XXXXXXXXXXX"
+
+clients:
+    someone:
+        name: "Someone"
+        bdc: "Bon de commande 1"
+        address.way : "Société Someone \\\\1 rue inconnue"
+        address.zipcode: "01234"
+        address.town: "Ville de Someone"
+        work.description: "Janvier 2015\\linebreak - Support en LaTeX"
+        invoice.TJM : 500
+        invoice.workDayCount: 20
+        invoice.number: "FA-2015-01-0001"
+        devis.description: "Du 01/01/2015 au 31/01/2015"
+        devis.number: "DEV-2015-01-0001"
+        devis.workDayCount: 60
+        avoir: "no"
+        avoir.workDayCount: 1
+        avoir.number: 1
+        expense.number: "FR-2015-01-0001"
+
+    another:
+        name: "Another"
+        bdc: "Bon de commande 2"
+        address.way : "Société Another \\\\1 rue inconnue"
+        address.zipcode: "01234"
+        address.town: "Ville de Another"
+        work.description: "Janvier 2015\\linebreak - Conseil en LaTeX"
+        invoice.TJM : 800
+        invoice.workDayCount: 20
+        invoice.number: "FA-2015-01-0002"
+        devis.description: "Du 01/01/2015 au 31/01/2015"
+        devis.number: "DEV-2015-01-0002"
+        devis.workDayCount: 60
+        avoir: "no"
+        avoir.workDayCount: 1
+        avoir.number: 1
+        expense.number: "FR-2015-01-0001"
+
